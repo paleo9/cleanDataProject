@@ -1,4 +1,6 @@
-cleanDataProject
-================
+Readme
+========================================================
 
-clean data project
+The script "run_analysis.R" merges the traing and test data
+from the
+
