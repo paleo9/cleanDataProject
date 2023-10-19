@@ -1,5 +1,8 @@
 Readme
 ======
+# ARCHIVED 2023
+This repository was created as part of an online course in data science. It is now archived, making it 
+read-only for future refence.
 
 Run the R script "run_analysis.R".
 
